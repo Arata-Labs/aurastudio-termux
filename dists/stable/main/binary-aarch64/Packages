@@ -2174,11 +2174,11 @@ Homepage: https://www.gnu.org/software/libidn/#libidn2
 Depends: libidn2 (= 2.3.8-1)
 Description: Static libraries for libidn2
 Filename: dists/stable/main/binary-aarch64/libidn2-static_2.3.8-1_aarch64.deb
-Size: 73136
-MD5Sum: 3201618ccc1fd3fffce82a0c8f1f422f
-SHA1: 261f3b8496d798e7511199cd34692e054b45f006
-SHA256: 87480d1e6650a48fc47f3f2d686a18f7e92f5b33cd6e6777898cfcb1bace5592
-SHA512: 814cd25ce02ceac8391ed656c766dd55f2f147f17cc0a36355f924ed7a5cc85c6b1fc3028a79135720cecafbcb988dc04af04a7ad2da72528ea94fab4732c5e3
+Size: 73364
+MD5Sum: 642cfd24286f232d1a0b9e5d68f87d52
+SHA1: c9ec350b9b8540542e8b3ff4926a4e7b6ed7b07d
+SHA256: c2d764405b91c7cc276c68cc800772c98a910a39350289b888dc07702a03c7bb
+SHA512: 3e955d482efbb30efc05d380938d01e611473150ef9dd801c1136376b7afc9499a692b66d1eb6e4a0072ab6c9ec4643a5df18b44ec722d267eae63b0e8539d88
 
 Package: libidn2
 Architecture: aarch64
@@ -2191,11 +2191,11 @@ Depends: libandroid-support, libiconv, libunistring
 Replaces: libidn2-dev
 Description: Free software implementation of IDNA2008, Punycode and TR46
 Filename: dists/stable/main/binary-aarch64/libidn2_2.3.8-1_aarch64.deb
-Size: 104964
-MD5Sum: 1ead311c13802f27ce883d51878673ce
-SHA1: 71caf4632fc69fb23bd23130a83a99e1a7cbd6c7
-SHA256: 7c8ce5f708c1e4bb7013c191f967c5a295924e4449fe9db79d1094c10963288e
-SHA512: 1ccf1ffbcf48a9b48924fd1e0ba2f275fb4478f1da656eefe75ed908d338fc3acc17931bc1063e02bd4dc0f005603040e7d3d19230f0e2044b5aa56a0f7ab56a
+Size: 104792
+MD5Sum: 285840f6ff104e2e5174ac178c01b8d9
+SHA1: aa148e1cfc4bb2b8a133a728240b9c61383eb729
+SHA256: 7521d225f6a9946ca288af1cf1a015671073186f9942a4612dcd4968f530b3d3
+SHA512: b43db43e028712e3d04721c8e11595f811e62b3073c0dd274f94a99ab99084b2564103dbf403d4d61064b2473806df76d7b68811cda4d17fe3e281cbaa4cd2c8
 
 Package: libjpeg-turbo-progs
 Architecture: aarch64
@@ -3177,11 +3177,11 @@ Homepage: https://www.gnu.org/software/libunistring/
 Depends: libunistring (= 1.4.2)
 Description: Static libraries for libunistring
 Filename: dists/stable/main/binary-aarch64/libunistring-static_1.4.2_aarch64.deb
-Size: 485252
-MD5Sum: f9129cdba9c4bb464cd4f554de4c44ae
-SHA1: 8b5418e7a7664a9d0af625c1af8fbbe6f64d31dd
-SHA256: 23d636205bd95e703c6ecff00c60465b6be451824aa8e2b7532f7dcda8be3787
-SHA512: 232a705c170c4a0d7d93f0a2ad144104bf92b373f67136a1cd6cf47a4aa550d6f7fb4933bfe02e55150898a2c689778564848b05e8687d82ba5048f5f673def3
+Size: 481432
+MD5Sum: 6f28b4a49e285eaf47ef2d5a557c3b9b
+SHA1: d12a8c3709cb6b2ecaa249b58202fe870ad4f993
+SHA256: b83d6e4a8a8fbe59378ae94b8fd512ae8ecc4690a18111efaa2ea0f481e263b4
+SHA512: 61f04ec678e20ceed6e3335f49cd609c7a57e6da341d3e8c1ac9a5af4b5389a47a0f0703783758e3fbd614e89fa52ffab15e153ac38ccca3091848dc390a9e47
 
 Package: libunistring
 Architecture: aarch64
@@ -3194,11 +3194,11 @@ Depends: libandroid-support, libiconv
 Replaces: libunistring-dev
 Description: Library providing functions for manipulating Unicode strings
 Filename: dists/stable/main/binary-aarch64/libunistring_1.4.2_aarch64.deb
-Size: 560416
-MD5Sum: d0d4f26a6512df377a062afb948170af
-SHA1: 0e3a18252520c709b7514d13623c25556c8255ba
-SHA256: a5242adf4a1d1e8e0f5286d0d0f65f87f551a70e101da89cb8d6caf20adebcaf
-SHA512: 8ed7435b8c3271a96e8f68fbb0aca2aefbe64eeb67e8d60df3a10383f3ba599dad32b063458e0ff1f091b49386d85ffff53a24360629e99eb3c74f7cc488377b
+Size: 562696
+MD5Sum: 4987315af128e558d15f7b7e3febfa6e
+SHA1: f16657a796a530cdbb19c14fa35fca33a92857d5
+SHA256: 11e71f05ad45605a7736eba0cbecc74e79a18aa90ac589874d5ebadb5042e218
+SHA512: 90d3116606a28a3b9b138c3b94c6d3dc60fa8e885a1ae02f89b78ca80a50b955a36c3cc6369d9f5cdc895cec8bcaf063db3f44978c802e3ccb1d810b9ba7130b
 
 Package: libusb-static
 Architecture: aarch64
@@ -5261,11 +5261,11 @@ Homepage: https://www.gnu.org/software/wget/
 Depends: libandroid-support, libiconv, libidn2, libuuid, openssl, pcre2, zlib
 Description: Commandline tool for retrieving files using HTTP, HTTPS and FTP
 Filename: dists/stable/main/binary-aarch64/wget_1.25.0-1_aarch64.deb
-Size: 280596
-MD5Sum: 087bae410322c35dcc4cd17685ddde9f
-SHA1: f25204e0c162bb341aa06abfa360eaa8485acc2e
-SHA256: da41145b3e5f0b411d1c7b65139fe7da6b177c7d3530e346146b632c42492724
-SHA512: 8f909fa7637b15c6d797b124e28c8f8ac1f30b4adc357f550082395f2020e28c09356f9341ab83e9743d078a7c971187fbda935c4d425524763fb4d315883b5e
+Size: 280588
+MD5Sum: 431d3677fb07fbddf342118655591bf7
+SHA1: 5ab0f1cfad1a0ca0ce4c39a0345576dc663374aa
+SHA256: a707e6bda58632ac7c23d42829311d0630e2f879b1e5335395753fbd8b5196b7
+SHA512: 85d4e557e7de11c7497a68e9d71d6a0a78a2ee380acba6960bcd08098eb24c6e42f3ac7b85b5859a53b5c21a37225fcf91bfe3fcc082e088f9c306b7f674bfae
 
 Package: which
 Architecture: aarch64
